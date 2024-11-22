@@ -2,7 +2,7 @@
 
 ## A platform dedicated to promoting amber documentary
 
-## Features
+### Features:
 
 ### Amber Gallery
 #### Explore collections of ambers.
